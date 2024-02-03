@@ -1,0 +1,27 @@
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Inheritance\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache
